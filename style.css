@@ -1,0 +1,16 @@
+h1{
+background-color:Brown}
+body{
+color:yellow;
+background-color:black;
+margin:50px 25px 35px 20px;
+padding : 23px 40px;
+text-align:center;
+border: solid 5px yellow;
+border-radius:20px;
+}
+lable{
+color:yellow;
+padding : 1px 1px;
+border-radius:Black solid 1px 1px;
+}
