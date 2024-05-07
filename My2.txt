@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<title>Register Here</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Login Here </h1>
+<lable>First Name</lable><br>
+<input type="text"><br>
+<lable>Last Name</lable><br>
+<input type="text"><br>
+<lable>Address</lable><br>
+<input type="text"><br>
+<lable>Contact</lable><br>
+<input type="text"><br>
+<lable>Email:</lable><br>
+<input type="text"><br>
+<lable>Password\</lable><br>
+<input type="password"><br>
+<lable>Confirm Password</lable><br>
+<input type="password"><br>
+<br>
+<br>
+<button>Register</button><br>
+<br>
+</html>
